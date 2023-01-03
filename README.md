@@ -45,3 +45,6 @@ If you found you needed to make extra config to make this work better, feel free
 ---
 
 Let's go 🚀
+
+
+any https://github.com/joshuaword2alt/gif.js to add
